@@ -1,3 +1,1 @@
-# indek.html
-# ps3.kimi.com
-
+index.html
